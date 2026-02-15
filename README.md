@@ -44,168 +44,68 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- LEFT COLUMN -->
-      <td valign="top" width="50%">
-        <h4>JavaScript / Frontend</h4>
-        <p align="left">
-          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-            <img
-              src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-              alt="Next.js"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-              alt="TypeScript"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-              alt="React"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-        </p>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+<b>JavaScript / Frontend</b><br/><br/>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="34" height="34" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="34" height="34" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="34" height="34" />
+</a>
 
-        <h4>Python / Backend</h4>
-        <p align="left">
-          <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-              alt="Python"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://cdn.worldvectorlogo.com/logos/django.svg"
-              alt="Django"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-              alt="Flask"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-        </p>
-      </td>
+<br/><br/>
+<b>Python / Backend</b><br/><br/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="34" height="34" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="34" height="34" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="34" height="34" />
+</a>
+</td>
 
-      <!-- RIGHT COLUMN -->
-      <td valign="top" width="50%">
-        <h4>Databases</h4>
-        <p align="left">
-          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-              alt="MongoDB"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-              alt="MySQL"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-              alt="PostgreSQL"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-        </p>
+<td valign="top" width="50%">
+<b>Databases</b><br/><br/>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="34" height="34" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="34" height="34" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="34" height="34" />
+</a>
 
-        <h4>Cloud & Tools</h4>
-        <p align="left">
-          <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-              alt="AWS"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-            <img
-              src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-              alt="GCP"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-              alt="Azure"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-              alt="Git"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-              alt="Docker"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-          <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img
-              src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-              alt="Figma"
-              width="34"
-              height="34"
-              style="margin-right: 8px"
-            />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<br/><br/>
+<b>Cloud & Tools</b><br/><br/>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="34" height="34" />
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="34" height="34" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="34" height="34" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="34" height="34" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="34" height="34" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="34" height="34" />
+</a>
+</td>
+</tr>
+</table>
 
 ###
 
